@@ -1,5 +1,5 @@
 # **Modelos CNN de Detección de objetos** 
-![Banner del Proyecto](banners/banner_0.jpg)
+![Banner del Proyecto](banners/banner_0.png)
 
 Realizar una comparación de desempeño de las siguientes redes neuronales propuestas:
 
