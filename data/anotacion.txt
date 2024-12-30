@@ -1,0 +1,9 @@
+En YOLO, cada línea en el archivo de anotación representa un objeto, y suele tener esta forma:
+
+<class_id> <x_center> <y_center> <width> <height>
+
+donde:
+
+class_id: es el identificador de la clase,
+x_center y y_center: son las coordenadas del centro de la caja,
+width y height: son las dimensiones de la caja.
