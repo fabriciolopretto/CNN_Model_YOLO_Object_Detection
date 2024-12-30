@@ -53,8 +53,8 @@ Pasos para instalar y configurar el proyecto:
 ### Pasos
 1. Clona el repositorio:  
    ```bash  
-   git clone https://github.com/fabriciolopretto/Diferencias-Finitas-vs-Diferenciacion-Automatica.git  
-   cd Diferencias-Finitas-vs-Diferenciacion-Automatica
+   git clone https://github.com/fabriciolopretto/CNN_Model_YOLO_Object_Detection.git  
+   cd CNN_Model_YOLO_Object_Detection
 
 ---
 
@@ -80,7 +80,7 @@ Agradecimientos a las siguientes bibliotecas y recursos:
 - Matplotlib
 - Numpy
 - Pytorch
-- [text](https://universe.roboflow.com/roboflow-100/uno-deck/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
+- [Roboflow100 - UNO Deck](https://universe.roboflow.com/roboflow-100/uno-deck/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
 
 ---
 
